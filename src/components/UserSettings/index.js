@@ -22,7 +22,7 @@ function UserSettings(props) {
         </div>
         <div className="button">
           <h5>NOME</h5>
-          <p>Willian Pracinao</p>
+          <p>Willian Praciano</p>
           <ArrowForwardIosRoundedIcon />
         </div>
         <div className="button">

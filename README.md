@@ -2,7 +2,7 @@
 This is a simple project cloning the Google account settings screen.
 
 <p align="left">
-  <img alt="Frontend" src="public/print.png" width="60%">
+  <img alt="Frontend" src="public/print.png" width="80%">
 </p>
 
 # Getting Started with Create React App
