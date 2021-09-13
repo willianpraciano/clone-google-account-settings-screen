@@ -1,3 +1,10 @@
+# About this project
+This is a simple project cloning the Google account settings screen.
+
+<p align="left">
+  <img alt="Frontend" src="public/print.png" width="60%">
+</p>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
